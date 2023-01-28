@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Swann Htet</h1>
 <h3 align="center">I'm junior web developer from Myanmar</h3>
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **REACT**
 
 - 📫 How to reach me **shynx.11.wz@gmail.com**
 
