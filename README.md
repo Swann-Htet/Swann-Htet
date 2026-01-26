@@ -15,19 +15,18 @@ I am a passionate developer bridging the gap between web systems and interactive
 </div>
 
 ---
-
 ### 🎖️ Hall of Fame (Competition Wins)
 
 <div align="center">
 
 | **HUAWEI ICT COMPETITION** | **CODE FOR HOPE HACKATHON** |
 | :---: | :---: |
-| <img src="https://sh.skillfusion.tech/asset/images/competitions/huawei.jpg" width="400" alt="Huawei ICT Grand Prize"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/coh.jpg" width="400" alt="Code for Hope 2nd Prize"/> |
+| <img src="https://sh.skillfusion.tech/asset/images/competitions/huawei.jpg" width="380" alt="Huawei ICT Grand Prize"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/coh.jpg" width="380" alt="Code for Hope 2nd Prize"/> |
 | 🏆 **GRAND PRIZE** | 🥈 **2nd PRIZE** |
 
 | **JIWC COMPETITION 2024** | **JIWC COMPETITION 2025** |
 | :---: | :---: |
-| <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2025.jpg" width="400" alt="JIWC 2024 1st Prize"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2025.jpg" width="400" alt="JIWC 2025 3rd Prize"/> |
+| <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2025.jpg" width="380" alt="JIWC 2024 1st Prize"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2025.jpg" width="380" alt="JIWC 2025 3rd Prize"/> |
 | 🥇 **1st PRIZE** | 🥉 **3rd PRIZE** |
 
 </div>
@@ -37,9 +36,22 @@ I am a passionate developer bridging the gap between web systems and interactive
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Swann-Htet&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Swann-Htet Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Swann-Htet&theme=tokyonight&no-frame=true&margin-w=4&cache=1" alt="Swann-Htet Trophies" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=Swann-Htet&theme=tokyonight&hide_border=true&cache=1" alt="Swann Htet Streak" />
+  
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Swann-Htet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Swann Htet's Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swann-Htet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+
 </div>
 
 ---
@@ -52,36 +64,6 @@ I am a passionate developer bridging the gap between web systems and interactive
 | :---: | :---: | :---: | :---: |
 | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unreal-engine&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) | ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-#### ⚡ [sh.skillfusion.tech](https://sh.skillfusion.tech)
-> A high-performance URL shortening and redirection engine built for the SkillFusion ecosystem.
-* **Tech:** Node.js, Express, Redis, MongoDB.
-* **Role:** Lead Developer.
-
-#### 🎮 [Indie Game Prototype](https://github.com/Swann-Htet)
-> A 2D platformer with custom physics engine.
-* **Tech:** Unity, C#, Pixel Art.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swann-Htet&theme=tokyonight&hide_border=true&background=0D1117&ring=38b2ac&fire=38b2ac&currStreakNum=white" alt="Swann Htet Streak" />
-  
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Swann-Htet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Swann Htet's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swann-Htet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
 
 </div>
 
