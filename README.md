@@ -20,7 +20,7 @@ I am a passionate developer bridging the gap between web systems and interactive
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Swann-Htet&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Swann-Htet Trophies" />
+    <img src="https://sh.skillfusion.tech/asset/images/competitions/huawei.jpg" alt="Swann-Htet Trophies" />
   </a>
 </div>
 
