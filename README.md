@@ -4,9 +4,9 @@
 
 **Full Stack Developer | Game Developer | Tech Builder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swan-htet-sf/)
 [![Website](https://img.shields.io/badge/Website-Portfolio-success?style=for-the-badge&logo=google-chrome)](https://sh.skillfusion.tech)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:swanhtet.p.sf@gmail.com)
 
 <br />
 
@@ -16,11 +16,29 @@ I am a passionate developer bridging the gap between web systems and interactive
 
 ---
 
-### 🏆 Achievements
+### 🎖️ Hall of Fame (Competition Wins)
+
+<div align="center">
+
+| **HUAWEI ICT COMPETITION** | **CODE FOR HOPE HACKATHON** |
+| :---: | :---: |
+| <img src="https://sh.skillfusion.tech/asset/images/competitions/huawei.jpg" width="400" alt="Huawei ICT Grand Prize"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/coh.jpg" width="400" alt="Code for Hope 2nd Prize"/> |
+| 🏆 **GRAND PRIZE** | 🥈 **2nd PRIZE** |
+
+| **JIWC COMPETITION 2024** | **JIWC COMPETITION 2025** |
+| :---: | :---: |
+| <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2025.jpg" width="400" alt="JIWC 2024 1st Prize"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2025.jpg" width="400" alt="JIWC 2025 3rd Prize"/> |
+| 🥇 **1st PRIZE** | 🥉 **3rd PRIZE** |
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://sh.skillfusion.tech/asset/images/competitions/huawei.jpg" alt="Swann-Htet Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Swann-Htet&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Swann-Htet Trophies" />
   </a>
 </div>
 
