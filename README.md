@@ -1,59 +1,57 @@
-# ⚡ sh.skillfusion.tech
-
 <div align="center">
+ 
+# Hi there, I'm Swann Htet! 👋
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge&logo=none)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github-actions)
-![License](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)
-![Uptime](https://img.shields.io/badge/uptime-99.9%25-success?style=for-the-badge)
+**Full Stack Developer | Open Source Enthusiast | Tech Builder**
 
-**The high-performance, internal URL shortening & redirection engine for the SkillFusion ecosystem.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-url)
+[![Website](https://img.shields.io/badge/Website-Portfolio-success?style=for-the-badge&logo=google-chrome)](https://sh.skillfusion.tech)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
 
-[**Visit Dashboard**](https://sh.skillfusion.tech) · [**Report Bug**](https://github.com/skillfusion/sh/issues) · [**Request Feature**](https://github.com/skillfusion/sh/issues)
+<br />
+
+I am a passionate developer building scalable web applications and utility services. I love solving complex architectural problems and creating smooth user experiences.
 
 </div>
 
 ---
 
-## 🚀 About The Project
+### 🛠️ Tech Stack & Skills
 
-**SkillFusion SH** (`sh.skillfusion.tech`) is a robust microservice designed to handle link compression, click tracking, and dynamic redirection for SkillFusion's learning platform. It ensures that shared links are concise, branded, and trackable.
+<div align="center">
 
-### Why we built this
-* **Branding:** Replace generic short links (bit.ly) with our own trusted domain.
-* **Analytics:** Gain granular insights into student engagement and course click-through rates.
-* **Reliability:** A dedicated service decoupled from the main monolith for high availability.
+| Frontend | Backend | DevOps & Tools |
+| :---: | :---: | :---: |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
----
-
-## ✨ Key Features
-
-* 🔗 **Instant Shortening:** Compresses long course URLs into `sh.skillfusion.tech/xyz`.
-* 📊 **Real-time Analytics:** Tracks clicks, geographic location, and referrer data.
-* 🛡️ **Link Expiry:** Set automatic expiration dates for temporary promotional links.
-* 📱 **QR Code Generation:** Auto-generates QR codes for offline marketing.
-* ⚡ **Redis Caching:** Sub-millisecond redirection latency.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Featured Projects
 
-This project is built using a modern, scalable architecture.
+#### ⚡ [sh.skillfusion.tech](https://sh.skillfusion.tech)
+> A high-performance URL shortening and redirection engine built for the SkillFusion ecosystem.
+* **Tech:** Node.js, Express, Redis, MongoDB.
+* **Role:** Lead Developer.
+* **Key Feature:** Sub-millisecond latency redirects and real-time click analytics.
 
-| Component | Technology | Description |
-| :--- | :--- | :--- |
-| **Runtime** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | Core application logic |
-| **Framework** | ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | REST API framework |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | Persistent storage for link metadata |
-| **Caching** | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | High-speed caching for redirects |
-| **Container** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Containerization & Orchestration |
+#### 🛒 [E-Commerce Dashboard](https://github.com/Swann-Htet)
+> A comprehensive admin panel for managing inventory and orders.
+* **Tech:** React, Tailwind CSS, Firebase.
 
 ---
 
-## 🔌 API Reference
+### 📊 GitHub Stats
 
-The service exposes a RESTful API for programmatic access.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swann-Htet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Swann Htet's Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swann-Htet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+</div>
 
-### Shorten a Link
-```http
-POST /api/v1/shorten
+---
+
+<div align="center">
+  <sub>Let's build something amazing together.</sub>
+</div>
