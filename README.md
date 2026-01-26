@@ -1,6 +1,6 @@
 <div align="center">
  
-# Hi there, I'm Swann Htet! 👋
+# Hi there, I'm Swan Htet! 👋
 
 **Full Stack Developer | Game Developer | Tech Builder**
 
@@ -13,14 +13,23 @@
 I am a passionate developer bridging the gap between web systems and interactive entertainment. I build scalable web applications, utility services, and immersive game experiences.
 
 </div>
+
 ---
 
-### 🏆 GitHub Trophies
+### 🎖️ Hall of Fame (Competition Wins)
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Swann-Htet&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Swann-Htet Trophies" />
-  </a>
+
+| **HUAWEI ICT COMPETITION** | **CODE FOR HOPE HACKATHON** |
+| :---: | :---: |
+| <img src="https://sh.skillfusion.tech/asset/images/competitions/huawei.jpg" width="380" alt="Huawei ICT Grand Prize"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/coh.jpg" width="380" alt="Code for Hope 2nd Prize"/> |
+| 🏆 **GRAND PRIZE** | 🥈 **2nd PRIZE** |
+
+| **JIWC COMPETITION 2024** | **JIWC COMPETITION 2025** |
+| :---: | :---: |
+| <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2025.jpg" width="380" alt="JIWC 2024 1st Prize"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2025.jpg" width="380" alt="JIWC 2025 3rd Prize"/> |
+| 🥇 **1st PRIZE** | 🥉 **3rd PRIZE** |
+
 </div>
 
 ---
@@ -55,8 +64,6 @@ I am a passionate developer bridging the gap between web systems and interactive
 ### 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swann-Htet&theme=tokyonight&hide_border=true" alt="Swann Htet Streak" />
   
   <br/><br/>
 
