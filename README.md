@@ -27,7 +27,7 @@ I am a passionate developer bridging the gap between web systems and interactive
 
 | **JIWC COMPETITION 2024** | **JIWC COMPETITION 2025** |
 | :---: | :---: |
-| <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2025.jpg" width="380" alt="JIWC 2024 1st Prize"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2025.jpg" width="380" alt="JIWC 2025 3rd Prize"/> |
+| <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2024.jpg" width="380" alt="JIWC 2024 1st Prize"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2025.jpg" width="380" alt="JIWC 2025 3rd Prize"/> |
 | 🥇 **1st PRIZE** | 🥉 **3rd PRIZE** |
 
 </div>
