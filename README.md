@@ -67,7 +67,6 @@ I am a passionate developer bridging the gap between web systems and interactive
   
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Swann-Htet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Swann Htet's Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swann-Htet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
 
 </div>
