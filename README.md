@@ -19,7 +19,7 @@
 <br/>
 
 <div>
-<img align="right" src="sh.gif" alt="Swan Htet" width="300" />
+<img align="right" src="sh.gif" alt="Swan Htet" width="250" />
 </div>
 
 ### About Me
