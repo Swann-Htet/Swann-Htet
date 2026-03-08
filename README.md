@@ -19,17 +19,17 @@
 <br/>
 
 <div>
-<img align="right" src="sh.gif" alt="Swan Htet" width="250" />
+<img align="right" src="sh.gif" alt="Swan Htet" width="200" />
 </div>
 
-### About Me
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=4000&pause=99999&color=7EC8E3&vCenter=true&repeat=false&width=300&height=36&lines=About+Me" alt="About Me" />
 
-- Currently **CTO & Co-founder** at SkillFusion — leading technical strategy and product development
-- **Game Developer** at Yangon in Action — building gameplay systems and rendering pipelines
-- Pursuing **B.Eng. in Digital & Communication Engineering** at Mae Fah Luang University
-- Previously Founder & Instructor at Zero One · Web Developer at Lyrion Innovations
-- Based in **Thailand** · Open to remote opportunities
-- 2025 Goals: AWS Solutions Architect certification · Ship Yangon in Action
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=16&duration=4000&pause=99999&color=FFFFFF&vCenter=true&repeat=false&width=720&height=26&lines=Currently+CTO+%26+Co-founder+at+SkillFusion+%E2%80%94+leading+technical+strategy+and+product+development" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=16&duration=4000&pause=99999&color=FFFFFF&vCenter=true&repeat=false&width=720&height=26&lines=%E2%96%B8+Game+Developer+at+Yangon+in+Action+%E2%80%94+building+gameplay+systems+and+rendering+pipelines" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=16&duration=4000&pause=99999&color=FFFFFF&vCenter=true&repeat=false&width=720&height=26&lines=%E2%96%B8+Pursuing+B.Eng.+in+Digital+%26+Communication+Engineering+at+Mae+Fah+Luang+University" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=16&duration=4000&pause=99999&color=FFFFFF&vCenter=true&repeat=false&width=720&height=26&lines=%E2%96%B8+Previously+Founder+%26+Instructor+at+Zero+One+%C2%B7+Web+Developer+at+Lyrion+Innovations" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=16&duration=4000&pause=99999&color=FFFFFF&vCenter=true&repeat=false&width=720&height=26&lines=%E2%96%B8+Based+in+Thailand+%C2%B7+Open+to+remote+opportunities" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=16&duration=4000&pause=99999&color=4A9EFF&vCenter=true&repeat=false&width=720&height=26&lines=%E2%96%B8+2026+Goals%3A+AWS+Solutions+Architect+certification+%C2%B7+Ship+Yangon+in+Action" alt="" />
 
 <br/><br/><br/><br/>
 
