@@ -1,78 +1,103 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+
 <div align="center">
- 
-# Hi there, I'm Swan Htet! 👋
 
-**Full Stack Developer | Game Developer | Tech Builder**
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=d1e5ff&center=true&vCenter=true&width=600&height=70&lines=SWAN+HTET" alt="Swan Htet" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swan-htet-sf/)
-[![Website](https://img.shields.io/badge/Website-Portfolio-success?style=for-the-badge&logo=google-chrome)](https://sh.skillfusion.tech)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:swanhtet.p.sf@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=7EC8E3&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer;Game+Developer;CTO+%40+SkillFusion;Cloud+Engineer;Tech+Builder" alt="Roles" />
 
-<br />
+<br/>
 
-I am a passionate developer bridging the gap between web systems and interactive entertainment. I build scalable web applications, utility services, and immersive game experiences.
+<a href="https://www.linkedin.com/in/swan-htet-sf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://sh.skillfusion.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D2137?style=for-the-badge&logo=google-chrome&logoColor=4A9EFF" /></a>
+<a href="mailto:swanhtet.p.sf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0D2137?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://github.com/Swann-Htet" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D2137?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://x.com/LouisCore01" target="_blank"><img src="https://img.shields.io/badge/Twitter%2FX-0D2137?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
+<br/>
+
+<div>
+<img align="right" src="sh.gif" alt="Swan Htet" width="300" />
+</div>
+
+### About Me
+
+- Currently **CTO & Co-founder** at SkillFusion — leading technical strategy and product development
+- **Game Developer** at Yangon in Action — building gameplay systems and rendering pipelines
+- Pursuing **B.Eng. in Digital & Communication Engineering** at Mae Fah Luang University
+- Previously Founder & Instructor at Zero One · Web Developer at Lyrion Innovations
+- Based in **Thailand** · Open to remote opportunities
+- 2025 Goals: AWS Solutions Architect certification · Ship Yangon in Action
+
+<br/><br/><br/><br/>
+
 ---
 
-### 🎖️ Hall of Fame (Competition Wins)
+## Hall of Fame
 
 <div align="center">
 
 | **HUAWEI ICT COMPETITION** | **CODE FOR HOPE HACKATHON** |
 | :---: | :---: |
-| <img src="https://sh.skillfusion.tech/asset/images/competitions/huawei.jpg" width="380" alt="Huawei ICT Grand Prize"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/coh.jpg" width="380" alt="Code for Hope 2nd Prize"/> |
-| 🏆 **GRAND PRIZE** | 🥈 **2nd PRIZE** |
-
+| <img src="https://sh.skillfusion.tech/asset/images/competitions/huawei.jpg" width="380" alt="Huawei ICT Grand Prize"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/coh.jpg" width="380" alt="Code for Hope 1st Runner-Up"/> |
+| <img src="https://img.shields.io/badge/GRAND_PRIZE-FFD700?style=for-the-badge&logoColor=black" /> | <img src="https://img.shields.io/badge/1st_RUNNER--UP-C0C0C0?style=for-the-badge&logoColor=black" /> |
 | **JIWC COMPETITION 2024** | **JIWC COMPETITION 2025** |
-| :---: | :---: |
-| <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2024.jpg" width="380" alt="JIWC 2024 1st Prize"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2025.jpg" width="380" alt="JIWC 2025 3rd Prize"/> |
-| 🥇 **1st PRIZE** | 🥉 **3rd PRIZE** |
+| <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2024.jpg" width="380" alt="JIWC 2024 Winner"/> | <img src="https://sh.skillfusion.tech/asset/images/competitions/jiwc_2025.jpg" width="380" alt="JIWC 2025 2nd Runner-Up"/> |
+| <img src="https://img.shields.io/badge/WINNER-FFD700?style=for-the-badge&logoColor=black" /> | <img src="https://img.shields.io/badge/2nd_RUNNER--UP-CD7F32?style=for-the-badge&logoColor=white" /> |
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## Tech Stack
 
 <div align="center">
 
-| **Game Dev** | **Frontend** | **Backend** | **DevOps** |
-| :---: | :---: | :---: | :---: |
-| ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unreal-engine&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) | ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+<a href="#"><img src="https://skillicons.dev/icons?i=unity,cs,unrealengine,blender,java,kotlin,react,nextjs,tailwind,ts,nodejs,go,python,fastapi,laravel,php,postgresql,mongodb,redis,docker,aws,git,linux,figma&perline=8&theme=dark" /></a>
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
-
-#### ⚡ [sh.skillfusion.tech](https://sh.skillfusion.tech)
-> A high-performance URL shortening and redirection engine built for the SkillFusion ecosystem.
-* **Tech:** Node.js, Express, Redis, MongoDB.
-
-#### 🎮 [Indie Game Prototype](https://github.com/Swann-Htet)
-> A 2D platformer with custom physics engine.
-* **Tech:** Unity, C#, Pixel Art.
-
----
-
-### 📊 GitHub Stats
+## Featured Projects
 
 <div align="center">
-  
-  <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swann-Htet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+| Project | Description | Tech |
+| :---: | :--- | :---: |
+| <a href="https://sh.skillfusion.tech"><img src="https://img.shields.io/badge/sh.skillfusion.tech-0D2137?style=for-the-badge&logo=google-chrome&logoColor=4A9EFF"/></a> | High-performance URL shortening and redirection engine for the SkillFusion ecosystem | <img src="https://skillicons.dev/icons?i=nodejs,redis,mongodb&perline=3&theme=dark" /> |
+| <a href="https://github.com/Swann-Htet"><img src="https://img.shields.io/badge/Yangon_in_Action-0D2137?style=for-the-badge&logo=unity&logoColor=4A9EFF"/></a> | Immersive city game with custom gameplay systems and rendering pipelines | <img src="https://skillicons.dev/icons?i=unity,cs,unrealengine&perline=3&theme=dark" /> |
+| <a href="https://github.com/Swann-Htet"><img src="https://img.shields.io/badge/Life_Link_Extension-0D2137?style=for-the-badge&logo=visualstudiocode&logoColor=4A9EFF"/></a> | VS Code extension leveraging Gemini API for development assistance | <img src="https://skillicons.dev/icons?i=js,vscode&perline=3&theme=dark" /> |
+| <a href="https://github.com/Swann-Htet"><img src="https://img.shields.io/badge/Offline_Emergency_Network-0D2137?style=for-the-badge&logo=android&logoColor=4A9EFF"/></a> | Bluetooth-based offline emergency mesh network for Android | <img src="https://skillicons.dev/icons?i=java,kotlin&perline=3&theme=dark" /> |
 
 </div>
 
 ---
 
+## GitHub Stats
+
 <div align="center">
-  <sub>Let's build something amazing together.</sub>
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swann-Htet&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swann-Htet&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swann-Htet&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Swann-Htet&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swann-Htet&theme=radical&utcOffset=8">
+
 </div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Swann-Htet&color=4A9EFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Let's build something amazing together.</sub>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
