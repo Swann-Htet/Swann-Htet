@@ -50,10 +50,10 @@
 
 | <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=15&duration=4000&pause=99999&color=7EC8E3&vCenter=true&repeat=false&width=300&height=28&lines=HUAWEI+ICT+COMPETITION" alt="HUAWEI ICT COMPETITION" /> | <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=15&duration=4000&pause=99999&color=7EC8E3&vCenter=true&repeat=false&width=300&height=28&lines=CODE+FOR+HOPE+HACKATHON" alt="CODE FOR HOPE HACKATHON" /> |
 | :---: | :---: |
-| <img src="https://swannhtet.com/asset/images/competitions/huawei.jpg" width="380" alt="Huawei ICT Grand Prize"/> | <img src="https://swannhtet.com/asset/images/competitions/coh.jpg" width="380" alt="Code for Hope 1st Runner-Up"/> |
+| <img src="huawei_us.jpg" width="380" alt="Huawei ICT Grand Prize"/> | <img src="sme_us.jpg" width="380" alt="Code for Hope 1st Runner-Up"/> |
 | <img src="https://img.shields.io/badge/GRAND_PRIZE-FFD700?style=for-the-badge&logoColor=black" /> | <img src="https://img.shields.io/badge/1st_RUNNER--UP-C0C0C0?style=for-the-badge&logoColor=black" /> |
 | <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=15&duration=4000&pause=99999&color=7EC8E3&vCenter=true&repeat=false&width=300&height=28&lines=JIWC+COMPETITION+2024" alt="JIWC COMPETITION 2024" /> | <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=15&duration=4000&pause=99999&color=7EC8E3&vCenter=true&repeat=false&width=300&height=28&lines=JIWC+COMPETITION+2025" alt="JIWC COMPETITION 2025" /> |
-| <img src="https://swannhtet.com/asset/images/competitions/jiwc_2024.jpg" width="380" alt="JIWC 2024 Winner"/> | <img src="https://swannhtet.com/asset/images/competitions/jiwc_2025.jpg" width="380" alt="JIWC 2025 2nd Runner-Up"/> |
+| <img src="jiwc_us.jpg" width="380" alt="JIWC 2024 Winner"/> | <img src="jiwc2025_us.jpg" width="380" alt="JIWC 2025 2nd Runner-Up"/> |
 | <img src="https://img.shields.io/badge/WINNER-FFD700?style=for-the-badge&logoColor=black" /> | <img src="https://img.shields.io/badge/2nd_RUNNER--UP-CD7F32?style=for-the-badge&logoColor=white" /> |
 
 </div>
